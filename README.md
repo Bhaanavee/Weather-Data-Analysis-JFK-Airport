@@ -1,5 +1,7 @@
 # 🌤️ JFK Airport Weather Data Analysis
 
+This project represents a comprehensive meteorological analysis of John F. Kennedy International Airport's weather patterns, leveraging NOAA's historical climate data to extract actionable insights about New York's aviation weather conditions. The analysis employs data science methodologies to transform raw meteorological observations into meaningful patterns that could impact aviation operations, urban planning, and climate research.
+
 ## 📑 Table of Contents
 - [Project Overview](#-project-overview)
 - [Dataset Information](#-dataset-information)
