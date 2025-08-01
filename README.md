@@ -1,1 +1,91 @@
-# Weather-Data-Analysis-JFK-Airport
+# 🌤️ JFK Airport Weather Data Analysis
+
+## 📌 Project Overview
+This project analyzes **historical weather data** from **John F. Kennedy (JFK) Airport, New York**, sourced from **NOAA (National Oceanic and Atmospheric Administration)**.  
+The goal is to explore **weather patterns, trends, and anomalies** over time using cleaned and processed NOAA data.
+
+---
+
+## 📂 Dataset Information
+- **Source:** NOAA (National Oceanic and Atmospheric Administration)  
+- **Location:** JFK Airport, New York  
+- **File:** `jfk_weather_cleaned.csv` (cleaned dataset)  
+- **Data Period:** Historical weather records (exact date range available inside the dataset)
+
+---
+
+## 📁 Project Structure
+```plaintext
+JFK_AIRPORT_Analysis/
+├── README.md                              # Project documentation
+├── jfk_weather_cleaned.csv                # Cleaned weather dataset
+├── NOAA weather data analysis.ipynb       # Main analysis notebook
+└── .ipynb_checkpoints/                   
+    └── NOAA weather data analysis-checkpoint.ipynb
+```
+---
+
+## 🧪 Analysis Contents
+The Jupyter notebook (`NOAA weather data analysis.ipynb`) includes:
+
+- Data loading and initial exploration  
+- Weather pattern analysis  
+- Temperature trends over time  
+- Precipitation patterns  
+- Wind speed and direction analysis  
+- Seasonal weather variations  
+- Data visualization and insights  
+
+---
+
+## 🚀 Usage Instructions
+
+### 1. Open the Analysis  
+Launch `NOAA weather data analysis.ipynb` in Jupyter Notebook or JupyterLab.
+
+### 2. Install Dependencies  
+Ensure the following packages are installed:  
+```bash
+pip install pandas matplotlib seaborn numpy jupyter
+# Or if a requirements file exists:
+pip install -r requirements.txt
+```
+### 3. Run the Analysis  
+Execute the notebook cells sequentially to reproduce the analysis.
+
+### 4. Explore Further  
+Use `jfk_weather_cleaned.csv` to perform custom analyses or extend existing plots.
+
+---
+
+## 🛠️ Technical Requirements
+- Python 3.x  
+- Jupyter Notebook or JupyterLab  
+- pandas  
+- matplotlib  
+- seaborn  
+- numpy  
+
+---
+
+## 🧹 Data Cleaning Process
+The original NOAA data was cleaned to ensure quality:
+
+- Handled missing values appropriately  
+- Standardized date formats  
+- Removed outliers and inconsistencies  
+- Ensured reliability for downstream analysis  
+
+---
+
+## 🔮 Future Enhancements
+- Real-time weather data integration  
+- Advanced forecasting models  
+- Correlating weather with flight delays  
+- Extended geographic coverage  
+
+---
+
+## 📜 License & Data Usage
+This project uses publicly available NOAA weather data.  
+Please refer to NOAA’s official data usage policies for terms and attribution.
