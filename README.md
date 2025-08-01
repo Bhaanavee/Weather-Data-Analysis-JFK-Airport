@@ -1,5 +1,18 @@
 # 🌤️ JFK Airport Weather Data Analysis
 
+## 📑 Table of Contents
+- [Project Overview](#-project-overview)
+- [Dataset Information](#-dataset-information)
+- [Project Structure](#-project-structure)
+- [Analysis Contents](#-analysis-contents)
+- [Usage Instructions](#-usage-instructions)
+- [Technical Requirements](#-technical-requirements)
+- [Data Cleaning Process](#-data-cleaning-process)
+- [Future Enhancements](#-future-enhancements)
+- [License & Data Usage](#-license--data-usage)
+
+---
+
 ## 📌 Project Overview
 This project analyzes **historical weather data** from **John F. Kennedy (JFK) Airport, New York**, sourced from **NOAA (National Oceanic and Atmospheric Administration)**.  
 The goal is to explore **weather patterns, trends, and anomalies** over time using cleaned and processed NOAA data.
