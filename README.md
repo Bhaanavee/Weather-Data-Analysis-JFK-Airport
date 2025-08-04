@@ -1,5 +1,13 @@
 # 🌤️ JFK Airport Weather Data Analysis
 
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-orange.svg)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.13.x-green.svg)](https://seaborn.pydata.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.x-yellow.svg)](https://pandas.pydata.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+
+
 This project represents a comprehensive meteorological analysis of John F. Kennedy International Airport's weather patterns, leveraging NOAA's historical climate data to extract actionable insights about New York's aviation weather conditions. The analysis employs data science methodologies to transform raw meteorological observations into meaningful patterns that could impact aviation operations, urban planning, and climate research.
 
 ## 📑 Table of Contents
